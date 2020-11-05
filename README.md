@@ -40,7 +40,7 @@
 
 
 [linkedin]:https://www.linkedin.com/in/prasanna-ganapathi-s-a30ab419b
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]: 
+[webdevplaylist]: none
+[jsplaylist]:none 
+[cssplaylist]:none
+[reactplaylist]: none
