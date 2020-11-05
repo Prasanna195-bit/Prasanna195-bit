@@ -9,9 +9,6 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -42,5 +39,13 @@ twitter.svg" />][twitter]
 
 
 
-
-[linkedin]:https://www.linkedin.com/in/prasanna-ganapathi-s-a30ab419b
+[website]: 
+[course]: 
+[twitter]:
+[youtube]: 
+[instagram]: 
+[linkedin]:https://www.linkedin.com/in/prasanna-ganapathi-s-a30ab419b/
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]:
+[reactplaylist]: 
